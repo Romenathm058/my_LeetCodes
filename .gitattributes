@@ -1,0 +1,20 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Python
+*.py text eol=lf
+
+# C / C++
+*.c   text eol=lf
+*.cpp text eol=lf
+*.h   text eol=lf
+
+# Java
+*.java text eol=lf
+
+# JavaScript / TypeScript
+*.js  text eol=lf
+*.ts  text eol=lf
+
+# Markdown
+*.md  text eol=lf
