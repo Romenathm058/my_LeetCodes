@@ -1,4 +1,4 @@
-
+#find the longest common prefix 
 
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
